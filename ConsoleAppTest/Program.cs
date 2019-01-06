@@ -12,7 +12,7 @@ namespace ConsoleAppTest
 {
     class WebTest1
     {
-     //demo using git
+     //demo using git - awesome all free
         static void Main(string[] args){ }
 
         IWebDriver driver;
